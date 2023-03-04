@@ -1,6 +1,6 @@
-# Introduction to the VS Code Extension for the ADR Manager
+# Introdução à extensão do VS Code para o ADR Manager
 
-This repository serves as a short introduction to the features of the Visual Studio Code (VS Code) extension for the ADR Manager. For more information, please go to the [VS Code Marketplace page of the extension](https://marketplace.visualstudio.com/items?itemName=StevenChen.vscode-adr-manager).
+Este repositório serve como uma breve introdução aos recursos da extensão do Visual Studio Code (VS Code) para o ADR Manager. Para mais informações, por favor, vá para o [VS Code Marketplace page of the extension](https://marketplace.visualstudio.com/items?itemName=StevenChen.vscode-adr-manager).
 
 <hr>
 
